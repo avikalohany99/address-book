@@ -1,5 +1,4 @@
 #ADDRESS BOOK
-- This application 
 - This application has been created using the MERN stack which is MongoDB, Express JS, Node JS and React JS.
 - The backend of the application which consists of the server and the database has been created using express(node JS) and MongoDB atlas
 - The frontend of the application has been created using HTML, Bootstrap and React JS
